@@ -595,38 +595,6 @@ Increasing the thread count from 4 to 8 did not improve performance, demonstrati
 
 Overall, the project demonstrates the practical application of OpenMP for shared-memory parallel computing and performance analysis.
 
----
-
-# 23. Team Members
-
-### Parallel Computing Mini Project – Theme 3
-
-| Member |
-|---|
-| Jayapal Mukre |
-| Amogh Loni |
-| Chanabasappa Metgud |
-| Sammed Patil |
-
----
-
-# 24. GitHub Submission
-
-The repository contains:
-
-- Source code
-- Sequential implementation
-- OpenMP parallel implementation
-- Dataset generation code
-- Benchmark results
-- Performance graphs
-- Report material
-- Presentation material
-- Viva questions and answers
-
-Executable files and temporary build files should not be committed to the GitHub repository unless specifically required.
-
----
 
 # 25. How to Reproduce the Experiment
 
@@ -696,18 +664,3 @@ graphs/
 
 ---
 
-## Project Status
-
-**Status: Completed**
-
-- [x] Sequential implementation
-- [x] OpenMP parallel implementation
-- [x] Correctness verification
-- [x] Multiple dataset sizes
-- [x] Multiple thread configurations
-- [x] Benchmark data collection
-- [x] Execution-time analysis
-- [x] Speedup analysis
-- [x] Efficiency analysis
-- [x] Graph generation
-- [x] Results and conclusion
