@@ -2,7 +2,7 @@
 
 ## Parallel Computing Mini Project
 
-### Theme 3 – Parallel Sum and Average of Dataset
+###  Parallel Sum and Average of Dataset
 
 ---
 
