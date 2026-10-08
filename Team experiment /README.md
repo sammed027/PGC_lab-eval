@@ -26,7 +26,7 @@ The experiments are performed using different dataset sizes and the execution ti
 
 ## 2. Problem Statement
 
-Calculating the sum and average of a very large dataset sequentially requires processing every element one after another.
+ To Calculating the sum and average of a very large dataset sequentially requires processing every element one after another.
 
 For a large number of elements, the computation can take more time.
 
