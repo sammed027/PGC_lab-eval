@@ -8,7 +8,7 @@
 
 ## 1. Project Overview
 
-This project implements the calculation of the **sum and average of a large dataset** using both sequential and parallel approaches.
+ This project implements the calculation of the **sum and average of a large dataset** using both sequential and parallel approaches.
 
 The parallel implementation uses **OpenMP** to distribute the summation workload among multiple threads.
 
